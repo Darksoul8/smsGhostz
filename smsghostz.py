@@ -39,7 +39,7 @@ _______\033[1;31m smsGhostz by ĐαɾƙSσυʅ ‘ ∂¡૯ \033[1;36m _______
         resp = requests.post('https://freebulksmsonline.com/api/v1/index.php',{
         	'number' : num,
         	'message' : text,
-        	'token' : 'aad32f65faee35426523204710e64c6b'
+        	'token' : '534002faaa0355598444b71bcf8dc234'
         })
 
         time.sleep(2)
