@@ -54,7 +54,7 @@ _______\033[1;31m smsGhostz by ĐαɾƙSσυʅ ‘ ∂¡૯ \033[1;36m _______
         new = str(input("\n\033[1;33m Run again (Y/n): \033[m").upper())
 
         if(new == "N"):
-            break
+            break 
         else:
             pass
     elif(opt == '2' or opt == '02'):
